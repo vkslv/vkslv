@@ -12,9 +12,7 @@
 <br></br>
 
 💥 С 8 Августа 2023 года работаю на позиции *Electronic Data Delivery Analyst* в NielsenIQ.
-
 <br></br>
-
 [![Telegram Badge](https://img.shields.io/badge/-vks1v-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/vks1v)
 [![LinkedIn Badge](https://img.shields.io/badge/-vkslv-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vkslv/)
 
